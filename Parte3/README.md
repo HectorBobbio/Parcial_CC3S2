@@ -2,7 +2,7 @@
 
 Para esta actividad se clono el repositorio entregado para la PC1 desde el repositorio de uno de los integrantes de mi grupo.
 
-![](./cloneSinatraApp.png)
+![](./CloneRepo.png)
 
 Pregunta:
 
